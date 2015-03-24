@@ -5,8 +5,6 @@ Free Content Management System Indonesia Dikembangkan dengan CodeIgniter.
 	  Arthur  : @areta_vorsten
 	  Version : 1.0 
 
-#==========================================#
-
 Cara instalasi Papuacms :
 
    1. Extract file papuacms di directory web Anda.
