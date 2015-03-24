@@ -1,5 +1,5 @@
 PapuaCMS
-Free Content Management System Indonesia Dikembangkan dengan CodeIgniter.
+Free Content Management System Dikembangkan dengan CodeIgniter.
 
 	  Contact : aretakastarendahan@gmail.com
 	  Arthur  : @areta_vorsten
